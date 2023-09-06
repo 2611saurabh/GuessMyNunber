@@ -14,7 +14,7 @@
 //  console.log(document.querySelector('.guess').value);
 
 //handling click events
-
+const v = 20;
 
 const secretNumber = Math.trunc(Math.random() * 20) + 1;
 
