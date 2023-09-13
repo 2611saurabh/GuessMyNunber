@@ -15,7 +15,7 @@
 
 //handling click events
 const v = 20;
-const t = 30;
+const t = 3000;
 
 const secretNumber = Math.trunc(Math.random() * 20) + 1;
 
